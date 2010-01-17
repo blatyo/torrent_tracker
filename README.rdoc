@@ -1,6 +1,11 @@
 = torrent_tracker
 
-Description goes here.
+This project's goal is to create a pure ruby torrent tracking server. Parts of this are based off of the RubyTorrent
+(http://rubytorrent.rubyforge.org/). Why use this over RubyTorrent?
+* You shouldn't yet! It's not done! But when it is...
+* Cleaner code. (In my opinion!)
+* Runnable tests to see that it works.
+* Active (and cocky) developer.
 
 == Note on Patches/Pull Requests
  
